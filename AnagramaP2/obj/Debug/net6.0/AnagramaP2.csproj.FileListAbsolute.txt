@@ -1,0 +1,15 @@
+C:\Users\Pichau\source\repos\AnagramaP2\AnagramaP2\bin\Debug\net6.0\AnagramaP2.exe
+C:\Users\Pichau\source\repos\AnagramaP2\AnagramaP2\bin\Debug\net6.0\AnagramaP2.deps.json
+C:\Users\Pichau\source\repos\AnagramaP2\AnagramaP2\bin\Debug\net6.0\AnagramaP2.runtimeconfig.json
+C:\Users\Pichau\source\repos\AnagramaP2\AnagramaP2\bin\Debug\net6.0\AnagramaP2.dll
+C:\Users\Pichau\source\repos\AnagramaP2\AnagramaP2\bin\Debug\net6.0\AnagramaP2.pdb
+C:\Users\Pichau\source\repos\AnagramaP2\AnagramaP2\obj\Debug\net6.0\AnagramaP2.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\AnagramaP2\AnagramaP2\obj\Debug\net6.0\AnagramaP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\AnagramaP2\AnagramaP2\obj\Debug\net6.0\AnagramaP2.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\AnagramaP2\AnagramaP2\obj\Debug\net6.0\AnagramaP2.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\AnagramaP2\AnagramaP2\obj\Debug\net6.0\AnagramaP2.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\AnagramaP2\AnagramaP2\obj\Debug\net6.0\AnagramaP2.dll
+C:\Users\Pichau\source\repos\AnagramaP2\AnagramaP2\obj\Debug\net6.0\refint\AnagramaP2.dll
+C:\Users\Pichau\source\repos\AnagramaP2\AnagramaP2\obj\Debug\net6.0\AnagramaP2.pdb
+C:\Users\Pichau\source\repos\AnagramaP2\AnagramaP2\obj\Debug\net6.0\AnagramaP2.genruntimeconfig.cache
+C:\Users\Pichau\source\repos\AnagramaP2\AnagramaP2\obj\Debug\net6.0\ref\AnagramaP2.dll
